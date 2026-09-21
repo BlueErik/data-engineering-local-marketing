@@ -1,11 +1,11 @@
 ## Overview 📊
-This is a full personal data analysis project.  
+This is a full personal data engineering project.  
 
-_Microsoft Excel Visual Basic for Applications (VBA) for digital marketing advertisement data._
+_Local ETL pipeline for digital marketing advertisement data._
 
 ## Details 🗂️
 
-The VBA script functionalities (by module):
+The Notebook functionalities:
 - 
 - 
 
